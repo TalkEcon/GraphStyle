@@ -33,7 +33,6 @@
         </div>
     
     3. `third_gph.svg`
-    
         <div>
         <img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/third_gph.svg" width="700">
         </div>
