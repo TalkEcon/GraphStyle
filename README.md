@@ -17,7 +17,7 @@
 
 4. Open `TalkEcon_Graph/graph.R`.
     1. Point working directory to the unzipped file `TalkEcon_Graph` by using `setwd`.
-    2. If you did not install `Source Han Sans`, replace `Source Han Sans Normal` with the font you would like to use (not recommended since it will create inconsistency between graphs).
+    2. If you did not install `Source Han Sans`, replace `Source Han Sans Normal` with the font you would like to use (not recommended since it will create inconsistencies between graphs).
     3. Execute it.
 
 5. Check if the outputs look the same as the following graphs. 
