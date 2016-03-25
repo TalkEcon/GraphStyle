@@ -4,7 +4,7 @@
 
 1. Download and unzip [TalkEcon_Graph.zip](https://github.com/TalkEcon/GraphStyle/blob/master/TalkEcon_Graph.zip?raw=true)
 2. Make sure to install all the needed packages in R
-    ```
+        ```
 install.packages("ggplot2", dependencies = TRUE)
 install.packages("ggthemes", dependencies = TRUE)
 install.packages("reshape2", dependencies = TRUE)
