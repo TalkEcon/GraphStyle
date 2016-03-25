@@ -4,7 +4,7 @@
 
 1. Download and unzip [TalkEcon_Graph.zip](https://github.com/TalkEcon/GraphStyle/blob/master/TalkEcon_Graph.zip?raw=true).
 2. Install [Source Han Sans(思源黑體)](https://github.com/adobe-fonts/source-han-sans/tree/release) if it is not installed in your computer.
-2. Make sure to install all the needed packages in R.
+3. Make sure to install all the needed packages in R.
 
     ```
     install.packages("ggplot2", dependencies = TRUE)
@@ -13,11 +13,11 @@
     install.packages("svglite", dependencies = TRUE)
     ```
 
-3. Open `graph.R`
+4. Open `graph.R`
     1. Change the working directory using `setwd` if needed.
     2. Change the font `Source Han Sans Normal` to one you would like to use if you did not install `Source Han Sans` (not recommended).
     3. Execute it.
-4. Check if the outputs are consistent with the following graphs. 
+5. Check if the outputs are consistent with the following graphs. 
 
     1. `rice_price.svg`
     
