@@ -12,7 +12,7 @@
     install.packages("svglite", dependencies = TRUE)
     ```
 
-3. Open `graph.R`, change the working directory `setwd` if needed, and execute.
+3. Open `graph.R`, change the working directory, `setwd`, if needed, and execute.
 4. Check the outputs are consistent with the following graphs. 
 
     1. `rice_price.svg`
