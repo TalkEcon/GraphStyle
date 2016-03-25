@@ -15,8 +15,8 @@
     install.packages("svglite", dependencies = TRUE)
     ```
 
-4. Open `graph.R`.
-    1. Point working directory to the unzipped file by using `setwd`.
+4. Open `TalkEcon_Graph/graph.R`.
+    1. Point working directory to the unzipped file `TalkEcon_Graph` by using `setwd`.
     2. If you did not install `Source Han Sans`, replace `Source Han Sans Normal` with the font you would like to use (not recommended since it will create inconsistency between graphs).
     3. Execute it.
 
