@@ -13,7 +13,7 @@
     ```
 
 3. Open `graph.R`, change the working directory, `setwd`, if needed, and execute.
-4. Check the outputs are consistent with the following graphs. 
+4. Check if the outputs are consistent with the following graphs. 
 
     1. `rice_price.svg`
     
