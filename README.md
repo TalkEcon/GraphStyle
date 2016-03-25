@@ -14,16 +14,15 @@
 
 3. Open `graph.R`, change the working directory (`setwd`) if needed, and execute.
 4. Check the outputs are consistent with the following graphs. 
-
     1. rice_price.svg
         <div>
-        <img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/rice_price.svg" width="600">
+        <img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/rice_price.svg" width="700">
         </div>
     2. export_gph.svg
         <div>
-        <img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/export_gph.svg" width="600">
+        <img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/export_gph.svg" width="700">
         </div>
     3. third_gph.svg
         <div>
-        <img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/third_gph.svg" width="600">
+        <img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/third_gph.svg" width="700">
         </div>
