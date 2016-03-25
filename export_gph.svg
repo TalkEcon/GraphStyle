@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 576.00 324.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<rect x='0.00' y='0.00' width='576.00' height='324.00' style='stroke-width: 1.07; stroke: none; fill: #F8F2E4;' />
+<defs>
+  <clipPath id='cp1'>
+    <rect x='39.26' y='57.19' width='522.34' height='233.89' />
+  </clipPath>
+</defs>
+<rect x='39.26' y='57.19' width='522.34' height='233.89' style='stroke-width: 1.07; stroke: none; fill: #F8F2E4;' clip-path='url(#cp1)' />
+<polyline points='39.26,291.08 561.60,291.08 ' style='stroke-width: 1.07; stroke-dasharray: 1,3; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='39.26,244.31 561.60,244.31 ' style='stroke-width: 1.07; stroke-dasharray: 1,3; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='39.26,197.53 561.60,197.53 ' style='stroke-width: 1.07; stroke-dasharray: 1,3; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='39.26,150.75 561.60,150.75 ' style='stroke-width: 1.07; stroke-dasharray: 1,3; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='39.26,103.97 561.60,103.97 ' style='stroke-width: 1.07; stroke-dasharray: 1,3; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='39.26,57.19 561.60,57.19 ' style='stroke-width: 1.07; stroke-dasharray: 1,3; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='67.48,176.94 97.35,166.17 127.21,140.39 157.08,123.58 186.94,113.31 216.81,107.78 246.67,104.62 276.54,100.80 306.40,108.77 336.27,98.57 366.13,95.53 396.00,102.77 425.86,106.11 455.73,102.87 485.59,103.24 515.46,106.59 ' style='stroke-width: 4.27; stroke: #C72E29; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='76.44,217.64 106.31,217.23 136.17,226.29 166.04,226.90 195.90,230.41 225.77,235.72 255.63,236.93 285.50,237.03 315.36,236.66 345.23,239.39 375.09,241.37 404.96,244.10 434.82,246.97 464.69,249.17 494.55,248.52 524.42,248.52 ' style='stroke-width: 4.27; stroke: #016392; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='85.40,181.62 115.27,187.16 145.13,196.77 175.00,208.94 204.86,217.68 234.73,222.79 264.59,223.84 294.46,230.61 324.32,234.92 354.19,237.16 384.05,237.79 413.92,236.43 443.78,240.36 473.65,242.07 503.51,239.77 533.38,234.46 ' style='stroke-width: 4.27; stroke: #BE9C2E; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<rect x='39.26' y='57.19' width='522.34' height='233.89' style='stroke-width: 1.07; stroke: none;' clip-path='url(#cp1)' />
+<defs>
+  <clipPath id='cp2'>
+    <rect x='0.00' y='0.00' width='576.00' height='324.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cp2)'><text x='23.92' y='297.43' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>0</text></g>
+<g clip-path='url(#cp2)'><text x='14.40' y='250.65' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>10</text></g>
+<g clip-path='url(#cp2)'><text x='14.40' y='203.87' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>20</text></g>
+<g clip-path='url(#cp2)'><text x='14.40' y='157.09' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>30</text></g>
+<g clip-path='url(#cp2)'><text x='14.40' y='110.31' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>40</text></g>
+<g clip-path='url(#cp2)'><text x='14.40' y='63.54' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>50</text></g>
+<polyline points='39.26,291.08 561.60,291.08 ' style='stroke-width: 1.07; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='76.44,294.32 76.44,291.08 ' style='stroke-width: 1.07; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='195.90,294.32 195.90,291.08 ' style='stroke-width: 1.07; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='315.36,294.32 315.36,291.08 ' style='stroke-width: 1.07; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='434.82,294.32 434.82,291.08 ' style='stroke-width: 1.07; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='524.42,294.32 524.42,291.08 ' style='stroke-width: 1.07; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<g clip-path='url(#cp2)'><text x='57.41' y='309.60' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>2000</text></g>
+<g clip-path='url(#cp2)'><text x='176.87' y='309.60' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>2004</text></g>
+<g clip-path='url(#cp2)'><text x='296.33' y='309.60' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>2008</text></g>
+<g clip-path='url(#cp2)'><text x='415.79' y='309.60' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>2012</text></g>
+<g clip-path='url(#cp2)'><text x='505.39' y='309.60' style='font-size: 13.00pt; font-weight: bold; font-family: Source Han Sans Normal;'>2015</text></g>
+<rect x='60.81' y='22.90' width='479.24' height='25.78' style='stroke-width: 1.07; stroke: none; fill: #F8F2E4;' clip-path='url(#cp2)' />
+<g clip-path='url(#cp2)'><text x='65.06' y='42.70' style='font-size: 14.00pt; font-weight: bold; font-family: Source Han Sans;'>台灣對各國出口占總出口比例 (%)</text></g>
+<rect x='348.36' y='27.16' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F8F2E4;' clip-path='url(#cp2)' />
+<line x1='350.08' y1='35.80' x2='363.91' y2='35.80' style='stroke-width: 4.27; stroke: #C72E29; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<rect x='439.29' y='27.16' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F8F2E4;' clip-path='url(#cp2)' />
+<line x1='441.02' y1='35.80' x2='454.84' y2='35.80' style='stroke-width: 4.27; stroke: #016392; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<rect x='488.62' y='27.16' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F8F2E4;' clip-path='url(#cp2)' />
+<line x1='490.35' y1='35.80' x2='504.18' y2='35.80' style='stroke-width: 4.27; stroke: #BE9C2E; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<g clip-path='url(#cp2)'><text x='367.80' y='40.87' style='font-size: 10.40pt; font-family: Source Han Sans Normal;'>中國與香港</text></g>
+<g clip-path='url(#cp2)'><text x='458.73' y='40.87' style='font-size: 10.40pt; font-family: Source Han Sans Normal;'>歐洲</text></g>
+<g clip-path='url(#cp2)'><text x='508.06' y='40.87' style='font-size: 10.40pt; font-family: Source Han Sans Normal;'>美國</text></g>
+</svg>
