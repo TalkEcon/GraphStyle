@@ -2,8 +2,8 @@
 
 ## Usage
 
-1. Download and unzip [TalkEcon_Graph.zip](https://github.com/TalkEcon/GraphStyle/blob/master/TalkEcon_Graph.zip?raw=true)
-2. Make sure to install all the needed packages in R
+1. Download and unzip [TalkEcon_Graph.zip](https://github.com/TalkEcon/GraphStyle/blob/master/TalkEcon_Graph.zip?raw=true).
+2. Make sure to install all the needed packages in R.
 
     ```
     install.packages("ggplot2", dependencies = TRUE)
@@ -12,7 +12,7 @@
     install.packages("svglite", dependencies = TRUE)
     ```
 
-3. Open `graph.R`, change the working directory, `setwd`, if needed, and execute.
+3. Open `graph.R`, change the working directory using `setwd` if needed, and execute it.
 4. Check if the outputs are consistent with the following graphs. 
 
     1. `rice_price.svg`
