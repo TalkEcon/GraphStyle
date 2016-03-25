@@ -3,7 +3,7 @@
 ## Usage
 
 1. Download and unzip [TalkEcon_Graph.zip](https://github.com/TalkEcon/GraphStyle/blob/master/TalkEcon_Graph.zip?raw=true).
-2. Install [Source Han Sans (思源黑體)](https://github.com/adobe-fonts/source-han-sans/tree/release) if it is not installed in your computer.
+2. Install [Source Han Sans (思源黑體)](https://github.com/adobe-fonts/source-han-sans/tree/release) if it is not in in your computer.
 3. Make sure to install all the needed packages in R.
 
     ```
