@@ -16,14 +16,10 @@
 4. Check the outputs are consistent with the following graphs. 
 
 <img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/rice_price.svg" width="400">
-->rice_price.svg<-
+rice_price.svg
 
----
+<img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/export_gph.svg" width="400">
+export_gph.svg
 
-![](https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/export_gph.svg "export_gph.svg")
-->export_gph.svg<-
-
----
-
-![](https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/third_gph.svg "third_gph.svg")
-->third_gph.svg<-
+<img src="https://rawgit.com/TalkEcon/GraphStyle/master/TalkEcon_Graph/output/third_gph.svg" width="400">
+third_gph.svg
