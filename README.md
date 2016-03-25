@@ -1,4 +1,4 @@
-# TalkEcon.com Graph Style
+# Graph Style
 
 ## Usage
 
